@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "suiii07777.aternos.me:58511",
+    "ip": monkfish.aternos.host:58511",
     "port": 58511,
     "version": "",
     "try-creative": false
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
